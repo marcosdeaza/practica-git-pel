@@ -1,2 +1,5 @@
-# Este comentario documenta qué demuestra el archivo.
-print("Versión actualizada: cambio editado en local y subido a GitHub")
+def saludar(nombre):
+    return f"Hola, {nombre}!"
+
+
+print(saludar("clase PEL"))
