@@ -1,1 +1,2 @@
-print("Primera versión de la práctica de Git")
+# Este comentario documenta qué demuestra el archivo.
+print("Versión actualizada: cambio editado en local y subido a GitHub")
