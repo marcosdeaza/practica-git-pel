@@ -1,2 +1,5 @@
-# Este comentario documenta qué demuestra el archivo.
-print("Versión actualizada: cambio editado en local y subido a GitHub")
+def sumar(a, b):
+    return a + b
+
+
+print(sumar(2, 3))
